@@ -1,0 +1,14 @@
+      id  region_id         identifier
+241  253        NaN    day-care-couple
+242  254        NaN  link-trade-arrive
+243  255        NaN     link-trade-met
+244  256        NaN              kanto
+245  257        NaN              johto
+..   ...        ...                ...
+327  339        NaN   pokemon-fan-club
+328  340        NaN         event-site
+329  341        NaN      concert-event
+330  342        NaN         mr-pokemon
+331  343        NaN              primo
+
+[91 rows x 3 columns]

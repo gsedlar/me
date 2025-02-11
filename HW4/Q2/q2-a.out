@@ -1,0 +1,14 @@
+      id  region_id         identifier
+241  253      999.0    day-care-couple
+242  254      999.0  link-trade-arrive
+243  255      999.0     link-trade-met
+244  256      999.0              kanto
+245  257      999.0              johto
+..   ...        ...                ...
+327  339      999.0   pokemon-fan-club
+328  340      999.0         event-site
+329  341      999.0      concert-event
+330  342      999.0         mr-pokemon
+331  343      999.0              primo
+
+[91 rows x 3 columns]

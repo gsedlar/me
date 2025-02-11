@@ -1,0 +1,14 @@
+         id          identifier species_id  ... base_experience order is_default
+0         1                  hi          1  ...              64   1.0          1
+2         3            venusaur          3  ...             263   3.0          1
+3         4          charmander          4  ...              62   5.0          1
+4         5          charmeleon          5  ...             142   6.0          1
+5         6           charizard          6  ...             267   7.0          1
+...     ...                 ...        ...  ...             ...   ...        ...
+1300  10276  terapagos-terastal       1024  ...              90   NaN          0
+1301  10277   terapagos-stellar       1024  ...              90   NaN          0
+1302  10278     frillish-female        592  ...              67   NaN          0
+1303  10279    jellicent-female        593  ...             168   NaN          0
+0       999               hello        999  ...             999   999        999
+
+[1304 rows x 8 columns]

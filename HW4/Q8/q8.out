@@ -1,0 +1,14 @@
+         id                identifier  ...  order  is_default
+0         1                 bulbasaur  ...    1.0           1
+1         2                   ivysaur  ...    2.0           1
+2         3                  venusaur  ...    3.0           1
+6         7                  squirtle  ...   10.0           1
+7         8                 wartortle  ...   11.0           1
+...     ...                       ...  ...    ...         ...
+1299  10275  ogerpon-cornerstone-mask  ...    NaN           0
+1300  10276        terapagos-terastal  ...    NaN           0
+1301  10277         terapagos-stellar  ...    NaN           0
+1302  10278           frillish-female  ...    NaN           0
+1303  10279          jellicent-female  ...    NaN           0
+
+[1201 rows x 8 columns]

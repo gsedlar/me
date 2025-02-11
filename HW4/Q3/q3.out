@@ -1,0 +1,14 @@
+         id                  identifier  ...   order  is_default
+23       24                       arbok  ...    33.0           1
+58       59                    arcanine  ...    98.0           1
+62       63                        abra  ...   103.0           1
+64       65                    alakazam  ...   105.0           1
+141     142                  aerodactyl  ...   232.0           1
+...     ...                         ...  ...     ...         ...
+900     901                    ursaluna  ...     NaN           1
+1215  10191        urshifu-rapid-strike  ...  1083.0           0
+1250  10226  urshifu-single-strike-gmax  ...     NaN           0
+1251  10227   urshifu-rapid-strike-gmax  ...     NaN           0
+1296  10272          ursaluna-bloodmoon  ...     NaN           0
+
+[148 rows x 8 columns]
