@@ -1,0 +1,14 @@
+      id_ps identifier_ps  generation_id  ...  id_gen  main_region_id  identifier_gen
+0         1     bulbasaur              1  ...       1               1    generation-i
+1         2       ivysaur              1  ...       1               1    generation-i
+2         3      venusaur              1  ...       1               1    generation-i
+3         4    charmander              1  ...       1               1    generation-i
+4         5    charmeleon              1  ...       1               1    generation-i
+...     ...           ...            ...  ...     ...             ...             ...
+1020   1021   raging-bolt              9  ...       9              10   generation-ix
+1021   1022  iron-boulder              9  ...       9              10   generation-ix
+1022   1023    iron-crown              9  ...       9              10   generation-ix
+1023   1024     terapagos              9  ...       9              10   generation-ix
+1024   1025     pecharunt              9  ...       9              10   generation-ix
+
+[1025 rows x 23 columns]

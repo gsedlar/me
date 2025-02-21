@@ -1,0 +1,14 @@
+     identifier_ps identifier_gen
+0        bulbasaur   generation-i
+1          ivysaur   generation-i
+2         venusaur   generation-i
+3       charmander   generation-i
+4       charmeleon   generation-i
+...            ...            ...
+1020   raging-bolt  generation-ix
+1021  iron-boulder  generation-ix
+1022    iron-crown  generation-ix
+1023     terapagos  generation-ix
+1024     pecharunt  generation-ix
+
+[1025 rows x 2 columns]

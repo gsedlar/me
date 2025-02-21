@@ -1,0 +1,14 @@
+               identifier_poke  base_experience identifier
+0                    bulbasaur               64      green
+1                      ivysaur              142      green
+2                     venusaur              263      green
+3                   charmander               62        red
+4                   charmeleon              142        red
+...                        ...              ...        ...
+1299  ogerpon-cornerstone-mask              275      green
+1300        terapagos-terastal               90       blue
+1301         terapagos-stellar               90       blue
+1302           frillish-female               67      white
+1303          jellicent-female              168      white
+
+[1304 rows x 3 columns]

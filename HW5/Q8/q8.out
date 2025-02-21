@@ -1,0 +1,8 @@
+      id_poke        identifier  ...  conquest_order  strength
+1244    10220  centiskorch-gmax  ...             NaN     54670
+1239    10215    coalossal-gmax  ...             NaN     53375
+1235    10211     inteleon-gmax  ...             NaN     53325
+1249    10225    duraludon-gmax  ...             NaN     53085
+1246    10222   grimmsnarl-gmax  ...             NaN     52875
+
+[5 rows x 28 columns]

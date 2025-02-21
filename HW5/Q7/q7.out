@@ -1,0 +1,14 @@
+        id   identifier  generation_id  ...  is_mythical  order  conquest_order
+150    151          mew              1  ...            1    183             NaN
+250    251       celebi              2  ...            1    276             NaN
+384    385      jirachi              3  ...            1    415             NaN
+385    386       deoxys              3  ...            1    416             NaN
+488    489       phione              4  ...            1    490             NaN
+...    ...          ...            ...  ...          ...    ...             ...
+1013  1014      okidogi              9  ...            0   1016             NaN
+1014  1015    munkidori              9  ...            0   1017             NaN
+1015  1016  fezandipiti              9  ...            0   1018             NaN
+1016  1017      ogerpon              9  ...            0   1019             NaN
+1023  1024    terapagos              9  ...            0   1026             NaN
+
+[93 rows x 20 columns]
