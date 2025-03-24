@@ -1,0 +1,7 @@
+HW7 Q3
+Gabrielle Sedlar
+March 24, 2025
+
+To make it only available to your local computer, you'd want to switch the host to the local host, by changing
+the last line to: app.run(host='127.0.0.1',port=9999,debug=True)
+

@@ -1,0 +1,7 @@
+HW7 Q2
+Gabrielle Sedlar
+March 20, 2025
+
+Because port 9999 is already being used, the second time the application is run, it won't work. 
+This can be solved by changing one of the ports to a different port.
+
